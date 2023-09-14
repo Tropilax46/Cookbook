@@ -1,2 +1,2 @@
 # Cookbook
-This repository is used for studying how works github with git
+This repository is used for studying how works github with git and fun!
